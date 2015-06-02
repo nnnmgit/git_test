@@ -1,3 +1,5 @@
 hoge
 
-branchA testbranch
+branchA testbranch EDIT
+
+fixB
